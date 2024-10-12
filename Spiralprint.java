@@ -2,7 +2,7 @@
 
 import java.util.*;
 
-public class Main {
+public class Spiralprint {
     public static void main(String[] args) {
         int[][] arr = { {1,  2,  3,  4},
                         {12, 13, 14, 5},
